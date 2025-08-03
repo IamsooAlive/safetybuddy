@@ -90,7 +90,7 @@ The system includes a conceptual outline for production deployment:
 
 ## 📊 Usage
 
-1. **Access Dashboard**: Navigate to `http://localhost:5173`
+1. **Access Dashboard**: Navigate to https://safetybuddy.netlify.app/
 2. **Start Monitoring**: Click "Start Monitoring" to begin AI simulation
 3. **View Real-time Alerts**: Safety alerts appear automatically with AI recommendations
 4. **Manage Alerts**: Acknowledge and resolve alerts using the action buttons
